@@ -225,7 +225,7 @@
     <string name="EnableStickerPinTip">این عملکرد هنوز درحال توسعه است، همگام‌سازی ابری ممکن است آن‌طور که مورد انتظار است کار نکند.</string>
     <string name="EnableStickerPinAbout">استیکرها پین و همگام‌سازی ابری شوند، حتی حین افزودن استیکر‌های جدید.
 \nبه غیرفعال بودن استیکر‌های اخیر و مورد علاقه بستگی دارد.</string>
-    <string name="EnableStickerPin">فعالسازی پین‌کردن استیکر</string>
+    <string name="EnableStickerPin">Enable pinning sticker</string>
     <string name="ArchiveFiles">فایل‌های آرشیو</string>
     <string name="Win32ExecutableFiles">فایل‌های قابل اجرای ویندوزی</string>
     <string name="AppLinkFDroid">F-Droid</string>
@@ -274,9 +274,12 @@
     <string name="AppUpdateNekoX">به‌روزرسانی نکوگرام ایکس</string>
     <string name="NekoXUpdateTranslationHint">برای ترجمه تغییرات انگشتتان را روی آن نگهدارید</string>
     <string name="Name">نام</string>
-    <string name="channelAlias">نام مستعار کانال</string>
+    <string name="channelAlias">برچسب کانال</string>
     <string name="channelAliasDetails">لازم است علامت‌گذاری کاربر کانال فعال شود.</string>
     <string name="setChannelAliasName">تنظیم نام مستعار</string>
-    <string name="labelChannelUser">علامت‌گذاری کاربر کانال</string>
+    <string name="labelChannelUser">علامت‌گذاری کاربران کانالی</string>
     <string name="labelChannelUserDetails">اگر فرستنده پیام یک \"کانال\" باشد، به‌عنوان یک \"کانال\" علامت‌گذاری خواهد شد.</string>
+    <string name="StickerSettings">استیکر</string>
+    <string name="ConfirmSettings">تاییدیه</string>
+    <string name="InteractionSettings">تعامل</string>
 </resources>

@@ -145,4 +145,5 @@
     <string name="customSavePath">Percorso di salvataggio personalizzato</string>
     <string name="ChatBlurAlphaValue">Alpha della sfocatura in chat</string>
     <string name="forceBlurInChat">Forza l\'attivazione della sfocatura in chat</string>
+    <string name="disablePremiumStickerAnimation">Disabilita animazioni sticker premium</string>
 </resources>
