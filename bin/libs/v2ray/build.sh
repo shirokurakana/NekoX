@@ -5,6 +5,7 @@ export GO111MOUDLE=on
 export GO386=softfloat
 
 cd "$PROJECT/v2ray"
+export PATH=$PATH:~/go/bin
 gomobile init
 gomobile bind -v -ldflags='-s -w' . || exit 1
 
